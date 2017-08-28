@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_camera" type="drawable">@drawable/ic_inicio</item>
+    <item name="icpes" type="drawable">@drawable/ic_search</item>
+    <item name="are" type="drawable">@drawable/ic_are</item>
+
+</resources>

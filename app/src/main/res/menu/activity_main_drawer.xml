@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/AlertDialog.AppCompat.Light">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_cal"
+            android:title="Unimed (62) 3216-8000" />
+        <item
+            android:id="@+id/Inicio"
+            android:icon="@drawable/ic_inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/MinhaArea"
+            android:icon="@drawable/ic_are"
+            android:title="Área do Cliente" />
+        <item
+            android:id="@+id/Pesquisa"
+            android:icon="@drawable/ic_search"
+            android:title="Pesquisa de Horários" />
+        <item
+            android:id="@+id/Agenda"
+            android:icon="@drawable/ic_agenda"
+            android:title="Adicionar Consulta à Agenda" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_exit"
+            android:title="Sair" />
+
+
+    </group>
+
+
+
+</menu>

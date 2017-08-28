@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unimed Agendamento Online</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ad_unit_id">ca-app-pub-7464926184154595/5564969265</string>
+    <string name="ad_unit_id2">ca-app-pub-7464926184154595/5130990462</string>
+
+</resources>

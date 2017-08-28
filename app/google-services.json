@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946503568148",
+    "firebase_url": "https://agendamento-unimed.firebaseio.com",
+    "project_id": "agendamento-unimed",
+    "storage_bucket": "agendamento-unimed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946503568148:android:bc7ac52e1625cbf2",
+        "android_client_info": {
+          "package_name": "ribeiro.elber.unimedagendamentoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946503568148-o3bbuobp4lr147f7u70pamd0dc74q1ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XQrYlcKMeUS0YBrrcqDCdHtZnWywPjI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
